@@ -1,5 +1,5 @@
-import Card from "./components/Card";
-import users from ".//user.json";
+import Card from 'components/Card';
+import users from '../src/user.json';
 
 export default function App() {
   return (
